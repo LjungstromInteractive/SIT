@@ -1,0 +1,18 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot
+.import/
+.godot/
+
+# .NET
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
