@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bhugd3rf6hukl"
-path="res://.godot/imported/Svea_placeholder.png-561b6960bd072ad247fb1574543c2af4.ctex"
+uid="uid://woydqlgvu8it"
+path="res://.godot/imported/Svea_placeholder.png-ffa27d37f4a2d3b0fe2e58fe8a3faad0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Svea/Svea_placeholder.png"
-dest_files=["res://.godot/imported/Svea_placeholder.png-561b6960bd072ad247fb1574543c2af4.ctex"]
+source_file="res://Assets/Characters/Svea/Old/Svea_placeholder.png"
+dest_files=["res://.godot/imported/Svea_placeholder.png-ffa27d37f4a2d3b0fe2e58fe8a3faad0.ctex"]
 
 [params]
 
