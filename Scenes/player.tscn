@@ -1,22 +1,21 @@
 [gd_scene format=3 uid="uid://b3hyjbb1bv8f8"]
 
 [ext_resource type="Script" uid="uid://cgdpapv4i2kqh" path="res://Scripts/Player.cs" id="1_cvnsp"]
-[ext_resource type="Texture2D" uid="uid://bhugd3rf6hukl" path="res://Assets/Characters/Svea/Svea_placeholder.png" id="2_6t5aa"]
+[ext_resource type="Texture2D" uid="uid://dcorktktmmoyw" path="res://Assets/Characters/Svea/svea_placeholder.png" id="2_cvnsp"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_f60y1"]
-size = Vector2(264, 404.5)
+size = Vector2(264, 264.25)
 
 [node name="Player" type="CharacterBody2D" unique_id=686767180]
 script = ExtResource("1_cvnsp")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1562789733]
-position = Vector2(168, 90)
+position = Vector2(129, 37.875)
 shape = SubResource("RectangleShape2D_f60y1")
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=1233293784]
-position = Vector2(165, 120)
-scale = Vector2(0.5, 0.5)
-texture = ExtResource("2_6t5aa")
+position = Vector2(127, 110)
+texture = ExtResource("2_cvnsp")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=554596605]
 position = Vector2(8, 39)
